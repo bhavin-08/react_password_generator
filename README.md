@@ -1,7 +1,11 @@
 
 ## React Password Generator
 
-You can check out the application here [React Password Generator](https://fervent-volhard-f2991a.netlify.app/).
+You can check out the application here - http://localhost:3000/
+
+or [React Password Generator](https://fervent-volhard-f2991a.netlify.app/).
+
+
 
 
 
